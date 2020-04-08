@@ -12,10 +12,7 @@ public class Basic {
 		Child2 c2=new Child2();
 		c2.run();
 	}
-
-
 }
-
 
 
 //class1
@@ -26,9 +23,9 @@ class Child1{
 		int k=i+j;
 		
 		 System.out.println("child1 "+k);
-		
 	}
 }
+
 
 //class2
 class Child2{
@@ -37,8 +34,6 @@ class Child2{
 		int j=12;
 		int k=i+j;
 		
-		 System.out.println("child2 "+k);
-		
+		 System.out.println("child2 "+k);		
 	}
-	
 }
