@@ -43,7 +43,7 @@ public class Operator {
 	
 	
 //Prime NO.
-	
+/*	
 	int x=sc.nextInt();
 	boolean isPrime = true; 
 	String s=new String();
@@ -60,6 +60,8 @@ public class Operator {
 		//{ System.out.println("* 0 and 1 is Not Prime, Smallest prime no is 2 *"); }
 		//else 
 			System.out.println( x+ " Prime = "+isPrime + s);
+	
+*/
 	
 	
 	}//main close
